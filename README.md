@@ -1,1 +1,1 @@
-![](http://i12.pixs.ru/storage/3/8/7/SOLIDBjpg_3719453_24802387.jpg)
+![](http://i12.pixs.ru/storage/4/3/5/SOLIDB1001_5461581_24802435.jpg)
