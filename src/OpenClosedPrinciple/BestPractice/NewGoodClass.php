@@ -1,4 +1,5 @@
 <?php
+declare(strict_types = 1);
 namespace App\OpenClosedPrinciple\BestPractice;
 
 use App\SingleResponsibility\BestPractice\Display;

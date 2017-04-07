@@ -1,4 +1,5 @@
 <?php
+declare(strict_types = 1);
 namespace App\OpenClosedPrinciple\BestPractice;
 
 // the class has an implementation of our interface
